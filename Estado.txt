@@ -1,0 +1,3 @@
+Funciona en Chrome Versión 70.0.3538.110 (Build oficial) (64 bits)
+
+Firefox se queda en blanco el la previsualización.
